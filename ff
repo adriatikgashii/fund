@@ -1,32 +1,79 @@
-  #EXTM3U
-#EXTINF:-1 group-title="ALBANIA",AL: RTK SAT
-http://topiptv.net:5890/live/fPrwOlC94Q/S8hOxoSuR2/12892.m3u8
-#EXTINF:-1 group-title="ALBANIAN",RTV 21 NewsBiz
-http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2899.m3u8
-#EXTINF:-1 group-title="❂ Albania ❂",AL: KS PREMIERE 2 GISHT MJALTE 4K
-http://hitv.dyndns.info:19553/live/riK0ISqbiw/qDVczB74bR/106057.m3u8
-#EXTINF:-1 group-title="Albania",AL: Art MK - Klan MK
-http://samrapro.com:7766/live/mary/1234/19599.m3u8
-#EXTINF:-1 group-title="Albania",AL: City TV
-http://samrapro.com:7766/live/mary/1234/19359.m3u8
-#EXTINF:-1 group-title="Albania",AL: UTV
-http://samrapro.com:7766/live/mary/1234/19537.m3u8
-#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/KTVKOHAVISION.png" group-title="EU | ALBANIA",ALB - KTV KOHAVISION
-http://gatoriptv.co:80/live/916012320988/3PeJtEqbvJN2vzz/54001.m3u8
-#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/klan_kosova.png" group-title="EU | ALBANIA",ALB - KLAN KOSOVA 2 HD
-http://gatoriptv.co:80/live/916012320988/3PeJtEqbvJN2vzz/53999.m3u8
-#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/A2%20CNN.jpg.png" group-title="EU | ALBANIA",ALB - A2 4K
-http://gatoriptv.co:80/live/916012320988/3PeJtEqbvJN2vzz/53772.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="ALBANIA",AL: ALSAT HD
-http://190.2.145.164:8080/live/0NioLTIF75/5qrqHIDKmP/215128.m3u8
-#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="ALBANIA",AL: Arta News HD
-http://190.2.145.164:8080/live/0NioLTIF75/5qrqHIDKmP/63692.m3u8
-#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="ALBANIA",AL: RTK Serial HD
-http://190.2.145.164:8080/live/0NioLTIF75/5qrqHIDKmP/122802.m3u8
-#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="ALBANIA",AL: RTV 21 HD
-http://190.2.145.164:8080/live/0NioLTIF75/5qrqHIDKmP/213423.m3u8
-#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="ALBANIA",AL: Scan TV
-http://190.2.145.164:8080/live/0NioLTIF75/5qrqHIDKmP/63683.m3u8
-#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="ALBANIA",AL: T7 HD
-http://190.2.145.164:8080/live/0NioLTIF75/5qrqHIDKmP/93924.m3u8
+#EXTINF:-1,- Albania Sport –
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/29774
+#EXTINF:-1,- Digitalb Sport [AL] –
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/29779
+#EXTINF:-1,[AL] Super Sport 1 4K
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/30539
+#EXTINF:-1,[AL] Super Sport 1 HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/26745
+#EXTINF:-1,[AL] Super Sport 2 4K
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/30540
+#EXTINF:-1,[AL] Super Sport 2 HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/26746
+#EXTINF:-1,[AL] Super Sport 3 4K
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/30541
+#EXTINF:-1,[AL] Super Sport 3 HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/26747
+#EXTINF:-1,[AL] Super Sport 4 4K
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/30542
+#EXTINF:-1,[AL] Super Sport 4 HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/26748
+#EXTINF:-1,[AL] Super Sport 5 4K
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/30543
+#EXTINF:-1,[AL] Super Sport 5 HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/26749
+#EXTINF:-1,[AL] Super Sport 6 4K
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/30544
+#EXTINF:-1,[AL] Super Sport 6 4K+
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/18420
+#EXTINF:-1,[AL] Super Sport 7 4K
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/30545
+#EXTINF:-1,[AL] Super Sport 7 4K+
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/18419
+#EXTINF:-1,- Tring Sport [AL] –
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/29780
+#EXTINF:-1,[AL] Tring Sport 1 4K
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/11153
+#EXTINF:-1,[AL] Tring Sport 1 HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/11154
+#EXTINF:-1,[AL] Tring Sport 2 4K
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/11155
+#EXTINF:-1,[AL] Tring Sport 2 HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/11156
+#EXTINF:-1,[AL] Tring Sport 3 4K
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/11157
+#EXTINF:-1,[AL] Tring Sport 3 HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/11158
+#EXTINF:-1,[AL] Tring Sport 4 4K
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/11159
+#EXTINF:-1,[AL] Tring Sport 4 HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/11160
+#EXTINF:-1,[AL] Tring Sport News HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/11151
+#EXTINF:-1,[AL] Tring Sport News
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/11152
+#EXTINF:-1,- Kujtesa Sport [AL] –
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/29781
+#EXTINF:-1,[AL] K Sport 1 HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/11161
+#EXTINF:-1,[AL] K Sport 2 HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/11162
+#EXTINF:-1,[AL] K Sport 3 HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/11163
+#EXTINF:-1,[AL] K Sport 4 HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/11164
+#EXTINF:-1,[AL] K Sport 5 HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/27667
+#EXTINF:-1,- Art Motion Sport [AL] –
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/29782
+#EXTINF:-1,[AL] ART Sport 1 HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/27664
+#EXTINF:-1,[AL] ART Sport 2 HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/27665
+#EXTINF:-1,[AL] ART Sport 3 HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/27666
+#EXTINF:-1,AL: Fight Box HD
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/24342
+#EXTINF:-1,[AL] RTSH Sport 4K
+http://123iptv.nl:88/A3w30mAEPw/UWym6qooJt/26872
