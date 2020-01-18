@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,RTK 1 HD
+http://84.22.32.190:8007/rtk1hd
+#EXTINF:-1,BEIN_SPORT_1
+http://s.igiptv.com:8000/live/abbas/112233/18761.m3u8
+#EXTINF:-1,BEIN_SPORT_2
+http://s.igiptv.com:8000/live/abbas/112233/18760.m3u8
+#EXTINF:-1,BEIN_SPORT_3
+http://s.igiptv.com:8000/live/abbas/112233/18759.m3u8
+#EXTINF:-1,BEIN_SPORT_4
+http://s.igiptv.com:8000/live/abbas/112233/18758.m3u8
+#EXTINF:-1,BEIN_SPORT_5
+http://s.igiptv.com:8000/live/abbas/112233/18757.m3u8
+#EXTINF:-1,BEIN_SPORT_6
+http://s.igiptv.com:8000/live/abbas/112233/18756.m3u8
+#EXTINF:-1,BEIN_SPORT_7
+http://s.igiptv.com:8000/live/abbas/112233/18755.m3u8
+#EXTINF:-1,BEIN_SPORT_8
+http://s.igiptv.com:8000/live/abbas/112233/18754.m3u8
+#EXTINF:-1,BEIN_SPORT_9
+http://s.igiptv.com:8000/live/abbas/112233/18753.m3u8
+#EXTINF:-1,BEIN_SPORT_10
+http://s.igiptv.com:8000/live/abbas/112233/18752.m3u8
