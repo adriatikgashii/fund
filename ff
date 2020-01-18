@@ -1,0 +1,32 @@
+  #EXTM3U
+#EXTINF:-1 group-title="ALBANIA",AL: RTK SAT
+http://topiptv.net:5890/live/fPrwOlC94Q/S8hOxoSuR2/12892.m3u8
+#EXTINF:-1 group-title="ALBANIAN",RTV 21 NewsBiz
+http://5.226.139.147:8000/live/MY127nV2t0/jRmGhkTKIw/2899.m3u8
+#EXTINF:-1 group-title="❂ Albania ❂",AL: KS PREMIERE 2 GISHT MJALTE 4K
+http://hitv.dyndns.info:19553/live/riK0ISqbiw/qDVczB74bR/106057.m3u8
+#EXTINF:-1 group-title="Albania",AL: Art MK - Klan MK
+http://samrapro.com:7766/live/mary/1234/19599.m3u8
+#EXTINF:-1 group-title="Albania",AL: City TV
+http://samrapro.com:7766/live/mary/1234/19359.m3u8
+#EXTINF:-1 group-title="Albania",AL: UTV
+http://samrapro.com:7766/live/mary/1234/19537.m3u8
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/KTVKOHAVISION.png" group-title="EU | ALBANIA",ALB - KTV KOHAVISION
+http://gatoriptv.co:80/live/916012320988/3PeJtEqbvJN2vzz/54001.m3u8
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/klan_kosova.png" group-title="EU | ALBANIA",ALB - KLAN KOSOVA 2 HD
+http://gatoriptv.co:80/live/916012320988/3PeJtEqbvJN2vzz/53999.m3u8
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/A2%20CNN.jpg.png" group-title="EU | ALBANIA",ALB - A2 4K
+http://gatoriptv.co:80/live/916012320988/3PeJtEqbvJN2vzz/53772.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="ALBANIA",AL: ALSAT HD
+http://190.2.145.164:8080/live/0NioLTIF75/5qrqHIDKmP/215128.m3u8
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="ALBANIA",AL: Arta News HD
+http://190.2.145.164:8080/live/0NioLTIF75/5qrqHIDKmP/63692.m3u8
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="ALBANIA",AL: RTK Serial HD
+http://190.2.145.164:8080/live/0NioLTIF75/5qrqHIDKmP/122802.m3u8
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="ALBANIA",AL: RTV 21 HD
+http://190.2.145.164:8080/live/0NioLTIF75/5qrqHIDKmP/213423.m3u8
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="ALBANIA",AL: Scan TV
+http://190.2.145.164:8080/live/0NioLTIF75/5qrqHIDKmP/63683.m3u8
+#EXTINF:-1 tvg-logo="http://vod.landiptv.live/files/t20.png" group-title="ALBANIA",AL: T7 HD
+http://190.2.145.164:8080/live/0NioLTIF75/5qrqHIDKmP/93924.m3u8
